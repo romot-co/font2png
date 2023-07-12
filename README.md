@@ -13,5 +13,5 @@ pip install pillow fontTools
 ## Use
 
 ```
-python main.py --input_file0{your fontfile}.otf --output_dir={output pngs path} --image_size=512
+python main.py your_font.otf output_dir_path 512
 ```
