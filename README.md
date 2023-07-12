@@ -7,7 +7,7 @@ simple script font file(otf/ttf) all characters convert to png file.
 ## Install
 
 ```
-pip install pillow fontTools
+pip install pillow fontTools tqdm
 ```
 
 ## Use
